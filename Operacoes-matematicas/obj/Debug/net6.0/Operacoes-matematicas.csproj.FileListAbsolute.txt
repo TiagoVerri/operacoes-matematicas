@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\bin\Debug\net6.0\Operacoes-matematicas.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\bin\Debug\net6.0\Operacoes-matematicas.deps.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\bin\Debug\net6.0\Operacoes-matematicas.runtimeconfig.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\bin\Debug\net6.0\Operacoes-matematicas.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\bin\Debug\net6.0\Operacoes-matematicas.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\obj\Debug\net6.0\Operacoes-matematicas.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\obj\Debug\net6.0\Operacoes-matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\obj\Debug\net6.0\Operacoes-matematicas.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\obj\Debug\net6.0\Operacoes-matematicas.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\obj\Debug\net6.0\Operacoes-matematicas.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\obj\Debug\net6.0\Operacoes-matematicas.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\obj\Debug\net6.0\refint\Operacoes-matematicas.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\obj\Debug\net6.0\Operacoes-matematicas.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\obj\Debug\net6.0\Operacoes-matematicas.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\Operacoes-matematicas\Operacoes-matematicas\obj\Debug\net6.0\ref\Operacoes-matematicas.dll
